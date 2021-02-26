@@ -1,0 +1,13 @@
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\obj\Debug\netcoreapp3.1\IscrizioneEsame.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\obj\Debug\netcoreapp3.1\IscrizioneEsame.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\obj\Debug\netcoreapp3.1\IscrizioneEsame.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\obj\Debug\netcoreapp3.1\IscrizioneEsame.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\bin\Debug\netcoreapp3.1\IscrizioneEsame.exe
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\bin\Debug\netcoreapp3.1\IscrizioneEsame.deps.json
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\bin\Debug\netcoreapp3.1\IscrizioneEsame.runtimeconfig.json
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\bin\Debug\netcoreapp3.1\IscrizioneEsame.runtimeconfig.dev.json
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\bin\Debug\netcoreapp3.1\IscrizioneEsame.dll
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\bin\Debug\netcoreapp3.1\IscrizioneEsame.pdb
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\obj\Debug\netcoreapp3.1\IscrizioneEsame.dll
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\obj\Debug\netcoreapp3.1\IscrizioneEsame.pdb
+C:\Users\tiziana.camboni\Desktop\ESERCIZI\Settimana5\Prova 5\IscrizioneEsame\IscrizioneEsame\obj\Debug\netcoreapp3.1\IscrizioneEsame.genruntimeconfig.cache
